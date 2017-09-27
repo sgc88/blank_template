@@ -36,31 +36,49 @@ h1 {
 	color:gray;
 	text-align:left;
     border: 1px solid #64c364;
-    height:50px;
+    height:60px;
     border-radius: 5px;
+    text-align: center;
+    margin:none;
 }
 .info{
 	background:#7bb7d0;
 	color:gray;
 	text-align:left;
     border: 1px solid #7bb7d0;
-    height:50px;
+    height:60px;
     border-radius: 5px;
+    text-align: center;
+    margin:none;
 }
 .warning{
 	background:#e28f9e;
 	color:gray;
 	text-align:left;
     border: 1px solid #e28f9e;
-    height:50px;
+    height:60px;
     border-radius: 5px;
+    text-align: center;
+    margin:none;
+    padding:none;
 }
 .danger{
 	background:#dddd37;
 	color:gray;
 	text-align:left;
-     border: 1px solid #dddd37;
-    height:50px;
+    border: 1px solid #dddd37;
+    height:60px;
     border-radius: 5px;
+    text-align: center;
+    padding:none;
+    margin:none;
     
 }
+
+.container{
+    width: 800px;
+    margin:auto;
+    text-align:center;
+    
+}
+
